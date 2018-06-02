@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "spfx-thisisme",
+    "libraryId": "dafdf2ec-ee42-44c5-8f1e-cca3f26422c4",
+    "environment": "spo"
+  }
+}

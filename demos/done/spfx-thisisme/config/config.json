@@ -1,0 +1,18 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "this-is-me-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/thisIsMe/ThisIsMeWebPart.js",
+          "manifest": "./src/webparts/thisIsMe/ThisIsMeWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "ThisIsMeWebPartStrings": "lib/webparts/thisIsMe/loc/{locale}.js"
+  }
+}
