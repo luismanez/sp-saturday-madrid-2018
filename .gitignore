@@ -37,3 +37,5 @@ obj
 
 # Styles Generated Code
 *.scss.ts
+/demos/done/SPSMadrid.GraphDemo/secrets.app2.json
+/demos/done/SPSMadrid.GraphDemo/secrets.app1.json
